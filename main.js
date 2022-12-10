@@ -13,3 +13,9 @@ for(let i = 0; i <= 10000; i++) {
         alert("The loop is done!")
     }
 }
+
+const tvShow = ["Spongebob", "Better Call Saul", "Courage the Cowardly Dog", "Breaking Bad", "Bluey"];
+
+for(let  i  = 0; i < tvShow.length, number.length; i++) {
+    console.log("My # " +  + " favorite tv show is " + tvShow[i])
+}
